@@ -1,1 +1,10 @@
 /webquote
+
+.vs
+.vscode
+.cache
+
+desktop.ini
+.DS_Store
+.[Tt]rash*
+.directory
